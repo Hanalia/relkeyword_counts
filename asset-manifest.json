@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/relkeyword_counts/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/relkeyword_counts/static/js/main.90934767.chunk.js",
+    "main.js.map": "/relkeyword_counts/static/js/main.90934767.chunk.js.map",
+    "runtime-main.js": "/relkeyword_counts/static/js/runtime-main.fa54105e.js",
+    "runtime-main.js.map": "/relkeyword_counts/static/js/runtime-main.fa54105e.js.map",
+    "static/js/2.7b488f71.chunk.js": "/relkeyword_counts/static/js/2.7b488f71.chunk.js",
+    "static/js/2.7b488f71.chunk.js.map": "/relkeyword_counts/static/js/2.7b488f71.chunk.js.map",
+    "static/js/3.1a170bd9.chunk.js": "/relkeyword_counts/static/js/3.1a170bd9.chunk.js",
+    "static/js/3.1a170bd9.chunk.js.map": "/relkeyword_counts/static/js/3.1a170bd9.chunk.js.map",
+    "index.html": "/relkeyword_counts/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/relkeyword_counts/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.7b488f71.chunk.js.LICENSE.txt": "/relkeyword_counts/static/js/2.7b488f71.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/relkeyword_counts/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa54105e.js",
+    "static/js/2.7b488f71.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.90934767.chunk.js"
+  ]
+}
